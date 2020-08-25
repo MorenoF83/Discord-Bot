@@ -6,7 +6,7 @@ import math
 import time
 from selenium import webdriver
 
-TOKEN = 'NzIyNjE3MjYyMzc2MzUzODIz.XulsdQ.oTAr3p9BSxdXv_gYwdjtIR0w31o'
+TOKEN = ''
 
 bot = commands.Bot(command_prefix='!')  # sets command prefix
 bot.case_insensitive = True
